@@ -13,4 +13,4 @@ This still in progress. Not yet finish
   Once agent given buy/sell action, I need a platform to let user know buy or not
 
 #### cleaned data
-![image](cleaned_data)
+![image](cleaned_data.png)
